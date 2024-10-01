@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fridge By BetterWorld
+* source:	https://sketchfab.com/3d-models/fridge-by-betterworld-30486bb9d53543219ac83795ad14af8a
+* author:	betterworld435 (https://sketchfab.com/betterworld435)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fridge By BetterWorld" (https://sketchfab.com/3d-models/fridge-by-betterworld-30486bb9d53543219ac83795ad14af8a) by betterworld435 (https://sketchfab.com/betterworld435) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

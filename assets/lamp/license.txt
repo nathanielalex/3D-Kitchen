@@ -1,0 +1,8 @@
+Model Information:
+* title:	Lamp
+* source:	https://sketchfab.com/3d-models/lamp-29bdbfb5d8bc44fea3469f53d14c177e
+* author:	ShadowDark (https://sketchfab.com/gjerez43)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

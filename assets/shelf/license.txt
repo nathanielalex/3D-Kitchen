@@ -1,0 +1,8 @@
+Model Information:
+* title:	kITCHEN iSLAND_inch
+* source:	https://sketchfab.com/3d-models/kitchen-island-inch-fe04f6c4985249cb8112013c45c55892
+* author:	routb3d (https://sketchfab.com/routb3d)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
